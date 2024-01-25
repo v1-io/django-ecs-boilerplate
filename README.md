@@ -32,8 +32,8 @@ $ touch .env
 ```
 Open the .env file and add your aws profile and region of choice:
 ```
-AWS_PROFILE=gardenof
-AWS_DEFAULT_REGION=us-east-1
+AWS_PROFILE=<your profile name>
+AWS_DEFAULT_REGION=<your aws region>
 ```
 
 ### Build the Containers
